@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+package-lock.json
+yarn.lock
+
+# VS Code
+.vscode/
+*.code-workspace
+.history/
+
+# IDE
+.idea/
+.DS_Store
+*.swp
+*.swo
+*~
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Build
+dist/
+build/
+out/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+.Python
+env/
+venv/
+
+# Environment
+.env
+.env.local
+.env.*.local
